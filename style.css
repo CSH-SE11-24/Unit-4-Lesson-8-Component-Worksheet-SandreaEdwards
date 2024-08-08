@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.navbar a{
+  color:white;
+}
+.active{
+  color:#38ff6a !important;
+}
+#carouselExample{
+  height: auto;
+  width: 50vw;
+}
+#logo{
+ height: auto;
+ width: 5vw;
+margin-right: 1vw;
+}
+
+
+
